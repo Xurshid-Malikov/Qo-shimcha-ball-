@@ -19,6 +19,7 @@ elForm.addEventListener('submit' , function(evt){
   }
 });
 
+record.lang = 'uz-UZ';
 elBtn.addEventListener('click', function(){
   record.start();
 })
